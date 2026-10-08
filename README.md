@@ -1,3 +1,5 @@
+helloooo this is just dyma trying to build events platform !!!
+
 # Bedrock
 
 Scaffolding and example code for a simple app (API only, no UI). Includes:
